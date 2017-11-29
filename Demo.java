@@ -8,9 +8,6 @@ import java.sql.*;
 import java.util.Random;
 
 public class Demo {
-    int dummy = 0
-
-
     public static void main(String[] args) {
         JPanel loginPanel = new JPanel(new FlowLayout());
         JFrame loginWindow = new JFrame("Login");
